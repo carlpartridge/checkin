@@ -1,13 +1,14 @@
 Checkin 2015-10-27
 
 Report:
-✓ FastTrack: login functionality
+✓ FastTrack: rails flash messages and some styling
 ✓ FastTrack: various small fixes/adjustments
-✓ PRISM huddle
+✓ FastTrack: entered stories into pivotal tracker
+~ FastTrack: investigate angular data/refresh improvements (tied to flash messages on specific actions)
 
 Today:
-  FastTrack: flash messages
-  FastTrack: enter stories into pivotal tracker
+  FastTrack: investigate angular data/refresh improvements (tied to flash messages on specific actions)
+  FastTrack: review pivotal tracker stories
 
 Blocker:
 
