@@ -1,19 +1,25 @@
 Checkin 2015-10-27
 
 Report:
-✓ FastTrack: rails flash messages and some styling
+✓ FastTrack: investigate angular data/refresh improvements
+✓ FastTrack: refactored current_action modes in angular
 ✓ FastTrack: various small fixes/adjustments
-✓ FastTrack: entered stories into pivotal tracker
-~ FastTrack: investigate angular data/refresh improvements (tied to flash messages on specific actions)
+~ FastTrack: angular flash messaging
 
 Today:
-  FastTrack: investigate angular data/refresh improvements (tied to flash messages on specific actions)
+  FastTrack: add flash messaging where missing
   FastTrack: review pivotal tracker stories
+  BDT benefits meeting (3-5pm)
 
 Blocker:
+  FastTrack: API events
+  FastTrack: AHEEVA
+  FastTrack: Scanning
 
 This week:
 
 Someday:
+  FastTrack: Error checking?
 
 Things to show:
+  FastTrack: document index pagination?
