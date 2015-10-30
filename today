@@ -1,25 +1,34 @@
 Checkin 2015-10-27
 
 Report:
-✓ FastTrack: investigate angular data/refresh improvements
-✓ FastTrack: refactored current_action modes in angular
-✓ FastTrack: various small fixes/adjustments
-~ FastTrack: angular flash messaging
+✓ Eventory: spec/test review, incoming params adjustment
+✓ BDT benefits meeting (3-5pm)
+✓ FastTrack: quick refactor to angular http calls, couple other minor adjustments
+* FastTrack: note system refactor
 
 Today:
-  FastTrack: add flash messaging where missing
+  FastTrack: note system refactor
   FastTrack: review pivotal tracker stories
-  BDT benefits meeting (3-5pm)
-
+  PRISM: Q&A meeting
+  
 Blocker:
   FastTrack: API events
   FastTrack: AHEEVA
   FastTrack: Scanning
+  FastTrack: Error checking
 
 This week:
 
 Someday:
-  FastTrack: Error checking?
+  FastTrack: Note messages (yml vs type?, restructure activity_id?)
 
 Things to show:
   FastTrack: document index pagination?
+
+
+
+
+//
+✓ when something is completed
+~ when waiting on something
+* when in progress… some work done but not complete
