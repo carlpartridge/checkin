@@ -1,26 +1,25 @@
 Checkin 2015-10-27
 
 Report:
-✓ Eventory: spec/test review, incoming params adjustment
-✓ BDT benefits meeting (3-5pm)
-✓ FastTrack: quick refactor to angular http calls, couple other minor adjustments
+✓ PRISM: Q&A meeting
 * FastTrack: note system refactor
 
 Today:
   FastTrack: note system refactor
   FastTrack: review pivotal tracker stories
-  PRISM: Q&A meeting
+  PRISM Service Delivery meeting
+  Developer huddle
   
 Blocker:
   FastTrack: API events
   FastTrack: AHEEVA
   FastTrack: Scanning
-  FastTrack: Error checking
+  
 
 This week:
 
 Someday:
-  FastTrack: Note messages (yml vs type?, restructure activity_id?)
+  FastTrack: Error checking
 
 Things to show:
   FastTrack: document index pagination?
