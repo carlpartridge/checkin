@@ -1,14 +1,13 @@
 Checkin 2015-10-27
 
 Report:
-✓ PRISM: Q&A meeting
-* FastTrack: note system refactor
+✓ meetings: BDT impact, dev huddle
+~ FastTrack: note system refactor (need to discuss filtering)
 
 Today:
-  FastTrack: note system refactor
-  FastTrack: review pivotal tracker stories
-  PRISM Service Delivery meeting
-  Developer huddle
+  FastTrack checkin
+  FastTrack cleaning up controllers
+  FastTrack rspec tests
   
 Blocker:
   FastTrack: API events
@@ -20,6 +19,7 @@ This week:
 
 Someday:
   FastTrack: Error checking
+  FastTrack: review pivotal tracker stories
 
 Things to show:
   FastTrack: document index pagination?
