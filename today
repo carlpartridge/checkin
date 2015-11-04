@@ -1,11 +1,11 @@
 Checkin 2015-10-27
 
 Report:
-✓ meetings: BDT impact, dev huddle
-~ FastTrack: note system refactor (need to discuss filtering)
+*  FastTrack cleaning up controllers
+*  FastTrack rspec tests
 
 Today:
-  FastTrack checkin
+  FastTrack checkin!?
   FastTrack cleaning up controllers
   FastTrack rspec tests
   
