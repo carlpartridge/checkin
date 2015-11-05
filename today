@@ -5,9 +5,10 @@ Report:
 *  FastTrack rspec tests
 
 Today:
-  FastTrack checkin!?
   FastTrack cleaning up controllers
-  FastTrack rspec tests
+  FastTrack rspec tests (commands)
+  FastTrack search notes filter
+  FastTrack column sorting on report pages
   
 Blocker:
   FastTrack: API events
