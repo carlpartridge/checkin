@@ -1,14 +1,15 @@
 Checkin 2015-10-27
 
 Report:
-*  FastTrack cleaning up controllers
+✓  LWWB meeting
+✓  FastTrack cleaning up controllers
+✓  FastTrack column sorting on report pages
 *  FastTrack rspec tests
 
 Today:
-  FastTrack cleaning up controllers
   FastTrack rspec tests (commands)
   FastTrack search notes filter
-  FastTrack column sorting on report pages
+  
   
 Blocker:
   FastTrack: API events
