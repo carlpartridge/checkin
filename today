@@ -1,14 +1,13 @@
 Checkin 2015-10-27
 
 Report:
-✓  LWWB meeting
-✓  FastTrack cleaning up controllers
-✓  FastTrack column sorting on report pages
+✓  FastTrack cleaned up angular controllers a bit
 *  FastTrack rspec tests
 
 Today:
-  FastTrack rspec tests (commands)
+  FastTrack rspec tests (finishing/fixing commands, making sure of 100% coverage everything else)
   FastTrack search notes filter
+  Dev huddle
   
   
 Blocker:
