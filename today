@@ -1,15 +1,14 @@
 Checkin 2015-10-27
 
 Report:
-*  FastTrack rspec tests
+✓  FastTrack rspec tests
+✓  FastTrack various bug fixes
+✓  FastTrack updated beta server, added some test data
 *  FastTrack test data population
-✓  Dev huddle
 
 Today:
-  FastTrack test data population
-  FastTrack rspec tests
-  FastTrack search notes filter
-  QA interview?
+  FastTrack test data population (file import)
+  FastTrack search notes filter/refactor
   
   
 Blocker:
