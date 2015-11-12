@@ -1,13 +1,12 @@
 Checkin 2015-10-27
 
 Report:
-✓  FastTrack rspec tests
 ✓  FastTrack various bug fixes
-✓  FastTrack updated beta server, added some test data
-*  FastTrack test data population
+*  FastTrack test data population (file import)
+*  FastTrack search notes filter/refactor
 
 Today:
-  FastTrack test data population (file import)
+  FastTrack file import, need to review specific formatting
   FastTrack search notes filter/refactor
   
   
