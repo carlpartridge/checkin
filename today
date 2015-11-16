@@ -1,14 +1,16 @@
 Checkin 2015-10-27
 
 Report:
-✓  FastTrack search notes filter/refactor
-✓  PRISM Q&A
-*  FastTrack test data population (file import)
+✓  FastTrack search notes adjustments
+✓  FastTrack call/document info bar now show everywhere
+✓  FastTrack user menu update
+*  FastTrack test data population (rspec tests, wiki)
 
 Today:
-  FastTrack test data population (file import rspec tests, wiki)
-  FastTrack refactor call info bar/document info bar to show everywhere when applicable
-  FastTrack user menu update
+  FastTrack file import rspec tests
+  FastTrack update betafasttrack
+  CommunityPrism get started!?
+  
   
   
 Blocker:
