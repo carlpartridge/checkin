@@ -1,15 +1,12 @@
 Checkin 2015-10-27
 
 Report:
-✓  FastTrack search notes adjustments
-✓  FastTrack call/document info bar now show everywhere
-✓  FastTrack user menu update
-*  FastTrack test data population (rspec tests, wiki)
+*  CPRS work/refactor
+✓  1on1 meeting
 
 Today:
-  FastTrack file import rspec tests
-  FastTrack update betafasttrack
-  CommunityPrism get started!?
+  CPRS quickcheck questions
+  Meet and greet
   
   
   
@@ -24,9 +21,10 @@ This week:
 Someday:
   FastTrack: Error checking
   FastTrack: review pivotal tracker stories
+  FastTrack file import rspec tests
+  FastTrack Beta Feedback changes from (11/16 meeting, see papers)
 
 Things to show:
-  FastTrack: document index pagination?
 
 
 
