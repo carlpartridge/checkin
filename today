@@ -1,14 +1,14 @@
 Checkin 2015-10-27
 
 Report:
-*  CPRS work/refactor
-✓  1on1 meeting
+✓  CPRS refactored to single page app
+*  CPRS quickcheck questions set up/basic styling
+✓  Meet and greet
 
 Today:
   CPRS quickcheck questions
-  Meet and greet
-  
-  
+  CPRS benefits analysis page
+  CPRS tie in to api  
   
 Blocker:
   FastTrack: API events
