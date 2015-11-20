@@ -1,14 +1,15 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS refactored to single page app
-*  CPRS quickcheck questions set up/basic styling
-✓  Meet and greet
+✓  CPRS quickcheck questions (styling, functionality)
+✓  CPRS basic benefits analysis page/schedule appointment page
+*  CPRS tie in to api
+*  CPAPI stubbing out functionality
 
 Today:
-  CPRS quickcheck questions
-  CPRS benefits analysis page
-  CPRS tie in to api  
+  CPRS benefits analysis page makeover
+  CPRS tie in to api
+  CPAPI functionality
   
 Blocker:
   FastTrack: API events
