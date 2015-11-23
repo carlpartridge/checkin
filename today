@@ -1,15 +1,16 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS quickcheck questions (styling, functionality)
-✓  CPRS basic benefits analysis page/schedule appointment page
-*  CPRS tie in to api
-*  CPAPI stubbing out functionality
+✓  CPRS tie in to api
+✓  CPAPI basic functionality
 
 Today:
   CPRS benefits analysis page makeover
-  CPRS tie in to api
-  CPAPI functionality
+  CPAPI/CPRS get user/authorization
+  CPRS actual question/benefit analysis?
+  Dev huddle
+  
+  
   
 Blocker:
   FastTrack: API events
