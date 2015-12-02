@@ -1,15 +1,14 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS actual question/benefit analysis
-✓  CPRS basecamp/minor adjustments
-*  CPRS scope issues
-✓  Dev huddle
+✓  CPRS scope issues
+✓  CPRS minor adjustments/bug fixes
+*  CPRS design rework
+✓  CP checkin
 
 Today:
-  CPRS scope issues
   CPRS design rework
-  CP checkin
+  CPRS js files rework (grunt integration)
   
   
   
