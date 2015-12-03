@@ -1,14 +1,12 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS scope issues
-✓  CPRS minor adjustments/bug fixes
 *  CPRS design rework
-✓  CP checkin
+✓  CPRS js files rework (grunt integration/angular minification issues)
 
 Today:
   CPRS design rework
-  CPRS js files rework (grunt integration)
+  CPRS question/analysis refactor
   
   
   
