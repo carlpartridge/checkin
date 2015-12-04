@@ -2,11 +2,11 @@ Checkin 2015-10-27
 
 Report:
 *  CPRS design rework
-✓  CPRS js files rework (grunt integration/angular minification issues)
+*  CPRS question/analysis refactor
 
 Today:
   CPRS design rework
-  CPRS question/analysis refactor
+  CPRS question/analysis refactor, actual logic implementation
   
   
   
