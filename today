@@ -1,13 +1,15 @@
 Checkin 2015-10-27
 
 Report:
-*  CPRS design rework
-*  CPRS question/analysis refactor
+*  CPRS css/minor adjustments
+*  CPRS benefit/analysis logic implementation
+✓  Dev huddle
 
 Today:
   CPRS css/minor adjustments
   CPRS benefit/analysis logic implementation
-  Dev huddle
+  CPRS question directive refactor
+  CP checkin meeting
   
   
 Blocker:
