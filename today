@@ -1,21 +1,18 @@
 Checkin 2015-10-27
 
 Report:
-*  CPRS benefit/analysis logic implementation (income ranges)
-✓  Appointments Plus meeting
-✓  Meet and greet
+✓  CPRS benefit/analysis logic implementation (income ranges)
+✓  CPRS various adjustments, cleanup
 
 Today:
-  CPRS benefit/analysis logic implementation (income ranges)
-  CPRS various adjustments, cleanup
+  CPRS refactor/cleanup
+  CPRS help set up demo server?
+  Dev huddle
+  CP checkin meeting
   
   
   
 Blocker:
-  FastTrack: API events
-  FastTrack: AHEEVA
-  FastTrack: Scanning
-  
 
 This week:
 
