@@ -1,17 +1,20 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS wed demo changes
+✓  CPRS wed demo testing/quickfixes
+*  CPRS refactor/cleanup
+~  CPRS generate list of PRISM names
 
 Today:
-  CPRS wed demo testing
   CPRS refactor/cleanup
-  CPRS generate list of PRISM names
-  CPRS API update accordingly
+  CPRS save data changes
+  CPRS print css
+  
   
   
   
 Blocker:
+  CPRS API updates
 
 This week:
 
