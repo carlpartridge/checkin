@@ -1,15 +1,17 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS 12-17 QS eligibility changes
+✓  CPRS 12-17 QS eligibility quickfixes
+✓  CPRS save data changes
 *  CPRS refactor/cleanup
+✓  CPRS print css
 ~  CPRS CP to PRISM keys/names
 
 Today:
+  CPRS CP to PRISM keys/names
   CPRS refactor/cleanup
-  CPRS save data changes
-  CPRS print css
-  
+  Dev huddle
+  CP checkin  
   
   
   
