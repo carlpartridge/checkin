@@ -1,12 +1,14 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS/CP_API save data changes
-*  CP checkin/feedback changes
+✓  CPRS checkin/feedback changes
+*  CPRS get text from api
+
 
 Today:
-  CPRS refactor qs questions?
-  CP checkin/feedback changes
+  CPRS get text from api
+  CPRS income calculators
+~  CPRS benefit categories, QS descriptions, benefit ineligibilities
   
   
   
