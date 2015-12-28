@@ -1,19 +1,21 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS checkin/feedback changes
-*  CPRS get text from api
+✓  CPRS get text from api
+*  CPRS income calculators
+*  CPRS benefit categories, QS descriptions, benefit ineligibilities
 
 
 Today:
-  CPRS get text from api
   CPRS income calculators
-~  CPRS benefit categories, QS descriptions, benefit ineligibilities
+  CPRS benefit categories, QS descriptions, benefit ineligibilities
+  CP checkin
+  Dev huddle
+  FT checkin?
   
   
   
 Blocker:
-  CPRS API updates
 
 This week:
 
