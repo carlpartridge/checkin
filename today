@@ -1,15 +1,15 @@
 Checkin 2015-10-27
 
 Report:
-*  CPRS benefit categories, QS descriptions, benefit ineligibilities
-*  CPRS results page consent/other modifications
-✓  CP API updates, text service additions
-✓  TANF spec meeting
+✓  CPRS income calculators
+✓  CPRS benefit categories, QS descriptions, benefit ineligibilities
+✓  CPRS results page other modifications
 
 Today:
-  CPRS income calculators
-  CPRS benefit categories, QS descriptions, benefit ineligibilities
-  CPRS results other modifications
+  CPRS results page benefit ordering fix
+  CP API adjustments
+  CPRS controller adjustments
+
   
   
   
