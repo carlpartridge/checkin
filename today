@@ -1,15 +1,17 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS income calculators
-✓  CPRS benefit categories, QS descriptions, benefit ineligibilities
-✓  CPRS results page other modifications
+*  CPRS results page benefit ordering fix
+✓  CP API adjustments
+✓  CPRS controller adjustments
 
 Today:
   CPRS results page benefit ordering fix
-  CP API adjustments
-  CPRS controller adjustments
-
+  CPRS help text for QS question
+  CPRS break out 'dont want to apply' reasons
+  Dev huddle
+  CP checkin
+  FT checkin?
   
   
   
@@ -18,10 +20,7 @@ Blocker:
 This week:
 
 Someday:
-  FastTrack: Error checking
-  FastTrack: review pivotal tracker stories
-  FastTrack file import rspec tests
-  FastTrack Beta Feedback changes from (11/16 meeting, see papers)
+
 
 Things to show:
 
