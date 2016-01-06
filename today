@@ -1,21 +1,18 @@
 Checkin 2015-10-27
 
 Report:
-✓  CPRS results page benefit ordering fix
-✓  CPRS benefits error on refresh fix
-✓  CPRS partial slight refactor
-~  CPRS help text for QS question
-✓  CPRS break out 'dont want to apply' reasons
-✓  Dev huddle
-✓  CP checkin
+✓  CP init project
+✓  CP basic shell
 
 Today:
-  CP init project
-  CP basic shell
+  CP general layout, css, templates
+  CP set up appropriate models, controllers, services
+  CPRS/CPRS API update quickscreen questions help
   
   
   
 Blocker:
+  CPRS help text for QS question
 
 This week:
 
