@@ -1,18 +1,17 @@
 Checkin 2015-10-27
 
 Report:
-✓  CP init project
-✓  CP basic shell
+*  CP general layout, css, templates
+*  CP set up appropriate models, controllers, services
+✓  CPRS/CPRS API update quickscreen questions help
 
 Today:
   CP general layout, css, templates
   CP set up appropriate models, controllers, services
-  CPRS/CPRS API update quickscreen questions help
   
   
   
 Blocker:
-  CPRS help text for QS question
 
 This week:
 
