@@ -3,11 +3,15 @@ Checkin 2015-10-27
 Report:
 *  CP general layout, css, templates
 *  CP set up appropriate models, controllers, services
-✓  CPRS/CPRS API update quickscreen questions help
+✓  CPRS/CPRS API update various text services help
 
 Today:
-  CP general layout, css, templates
-  CP set up appropriate models, controllers, services
+  CP stub out temporary models
+  CP refactor to portfolio
+  FT testing local and beta server
+  FT any quick refactor
+  Eventory walkthrough
+  CCIS review
   
   
   
