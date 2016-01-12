@@ -1,26 +1,22 @@
 Checkin 2015-10-27
 
 Report:
-✓  CP stub out temporary models
-✓  CP refactor to portfolio
-✓  FT testing local and beta server
-✓  Eventory walkthrough pt 1
-✓  CCIS review
+✓  FT code review/quick refactors
+✓  Dev huddle
+✓  CP checkin
+✓  FT checkin
+✓  Annual Review Form
 
 Today:
-  CP stub out api data calls
-  FT code review/quick refactors
-  Eventory walkthrough pt 2
-  Dev huddle
-  CP checkin
-  FT checkin
-  Annual Review Form
+  FT beta feedback/checkin changes
+  Annual Review
   
   
   
 Blocker:
 
 This week:
+  CP stub out api data calls
 
 Someday:
 
