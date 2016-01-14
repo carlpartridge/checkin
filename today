@@ -1,14 +1,16 @@
 Checkin 2015-10-27
 
 Report:
-*  FT beta feedback/checkin changes
-✓  Annual Review
+✓  FT beta feedback/checkin changes
+*  FT R&R changes
+✓  Review list of FT todos
+✓  Meet and greet
 
 Today:
-  FT beta feedback/checkin changes
-  Review list of FT todos
-  Meet and greet
-  
+  FT R&R changes changes
+  FT user/login system review
+  FT beta server, set up production (staging?) key/db for testing
+  Lunch development meeting
   
   
 Blocker:
