@@ -1,20 +1,18 @@
 Checkin 2015-10-27
 
 Report:
-✓  FT feedback changes
-✓  FT R&R changes
-✓  Lunch development meeting
+*  FT beta server, set up staging env
 
 Today:
-  FT user/login system review
-  FT beta server, set up production (staging?) key/db for testing
-  Review PRISM call system
+  FT beta server, set up staging env
+  
   
   
 Blocker:
 
 This week:
-  CP stub out api data calls
+  FT user/login system review
+  Review PRISM call system
 
 Someday:
 
