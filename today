@@ -1,11 +1,13 @@
 Checkin 2015-10-27
 
 Report:
-✓  FT beta server, set up staging env
+✓  FT eventory service
+*  FT data import
+*  FT data import created issues
 
 Today:
-  FT eventory service
   FT data import
+  FT data import created issues
   
   
   
@@ -27,3 +29,4 @@ Things to show:
 ✓ when something is completed
 ~ when waiting on something
 * when in progress… some work done but not complete
+✓
