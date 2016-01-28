@@ -1,15 +1,13 @@
 Checkin 2015-10-27
 
 Report:
-✓  FT data import created issues
-✓  FT list fixes/updates
-*  FT push/test beta
+*  FT testing/bug fixes
+✓  FT fixed up specs
+✓  Dev huddle
+✓  FT checkin
 
 Today:
-  FT push/test beta
-  FT bugs found
-  FT user/login system review
-  Review PRISM call system
+  FT bug fixes/new features requested at checkin
   
   
 Blocker:
