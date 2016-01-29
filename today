@@ -1,13 +1,13 @@
 Checkin 2015-10-27
 
 Report:
-*  FT testing/bug fixes
-✓  FT fixed up specs
-✓  Dev huddle
-✓  FT checkin
+*  FT bug fixes/new features
+*  FT set up of production server
+✓  FT staging server issues (reboot)
+✓  FT document changes
 
 Today:
-  FT bug fixes/new features requested at checkin
+  FT bug fixes/new features
   
   
 Blocker:
