@@ -1,17 +1,14 @@
 Checkin 2015-10-27
 
 Report:
-✓  FT anything that comes up
-✓  Dev huddle
-✓  FT checkin
-✓  CP checkin
-*  CPRS screenshots
+*  FT anything that comes up
+✓  FT PT stories
+✓  CPRS screenshots
+*  FT db connections/logrotate
 
 Today:
-  FT anything that comes up
-  FT PT stories
-  CPRS screenshots
-  FT db connections/logrotate
+  FT anything that comes up (PT stories)
+  FT logrotate
   
   
 Blocker:
