@@ -1,22 +1,24 @@
 Checkin 2015-10-27
 
 Report:
-*  FT anything that comes up (PT stories)
-✓  FT view page for TL's
-✓  CPRS demo (setup/meeting)
+✓  All staff meeting
+✓  CP refactor backend with boris
+✓  CP refactor frontend access to portfolio with boris
+✓  CP set up a testing agent that communicates with hub
 
 Today:
-  FT anything that comes up (PT stories)
-  FT logrotate
-  CPRS changes/fixes noticed during demo
-  All staff meeting
+  CP clean up frontend
+  CP work on agent/hub communication
   
   
 Blocker:
 
 This week:
-  FT user/login system review
-  Review PRISM call system
+  CPRS changes/fixes noticed during demo
+    -start a new screening didnt reset all questions
+    -liheap showed up as eligible benefit even though it was marked as already enrolled in
+    -icon next to question to indicated you can click on it to get help text, or else underline the questions?
+    -on the need to followup form page, have an entry field for custom notes
 
 Someday:
 
