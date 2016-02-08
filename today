@@ -1,14 +1,15 @@
 Checkin 2015-10-27
 
 Report:
-✓  All staff meeting
-✓  CP refactor backend with boris
-✓  CP refactor frontend access to portfolio with boris
-✓  CP set up a testing agent that communicates with hub
+*  CP clean up frontend
+✓  CP work on agent/hub communication
 
 Today:
   CP clean up frontend
-  CP work on agent/hub communication
+  CP notes
+  Dev huddle
+  CP checkin
+  FT checkin
   
   
 Blocker:
