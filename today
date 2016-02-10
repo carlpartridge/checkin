@@ -1,15 +1,9 @@
-Checkin 2015-10-27
-
 Report:
-*  CP clean up frontend
-✓  CP notes
-*  CP import appropriate specs from prism
-✓  Dev huddle
-✓  CP checkin
+*  CP documents page
+✓  CP fixed up specs so they arent breaking, about 40% are failing though
 
 Today:
-  CP documents page
-  CP fix specs
+  CP documents/verifications
   
   
   
