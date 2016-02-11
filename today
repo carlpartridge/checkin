@@ -1,15 +1,21 @@
 Report:
-*  CP documents page
+*  CP documents/verifications
 ✓  CP fixed up specs so they arent breaking, about 40% are failing though
+✓  CP reconfigure notes/documents to use uuid
+✓  FT leading zeroes issue
 
 Today:
+  FT "mail" issue, view button on documents page
   CP documents/verifications
-  
-  
-  
+  CP add gem/setup Active Model Serializers
+
+
 Blocker:
 
 This week:
+  CP
+    -call details 1 day timeframe not working correctly
+
   CPRS changes/fixes noticed during demo
     -start a new screening didnt reset all questions
     -liheap showed up as eligible benefit even though it was marked as already enrolled in
