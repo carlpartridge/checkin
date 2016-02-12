@@ -1,13 +1,13 @@
 Report:
 *  CP documents/verifications
-✓  CP fixed up specs so they arent breaking, about 40% are failing though
-✓  CP reconfigure notes/documents to use uuid
-✓  FT leading zeroes issue
+*  CP reconfigure notes/documents to use uuid
+✓  CP add gem/setup Active Model Serializers
+✓  FT various issues
+✓  FT "mail" issue, view button on documents page
 
 Today:
-  FT "mail" issue, view button on documents page
-  CP documents/verifications
-  CP add gem/setup Active Model Serializers
+  CP scans/documents/verifications refactor
+  CP appointments page
 
 
 Blocker:
