@@ -1,12 +1,10 @@
 Report:
-*  CP documents/verifications
-*  CP reconfigure notes/documents to use uuid
-✓  CP add gem/setup Active Model Serializers
-✓  FT various issues
-✓  FT "mail" issue, view button on documents page
+✓  CP scans/documents/verifications refactor
+*  FT deploy to production error
 
 Today:
-  CP scans/documents/verifications refactor
+  FT deploy to production error
+  CP documents UI
   CP appointments page
 
 
