@@ -1,17 +1,16 @@
 Report:
-✓  CP scans/documents/verifications refactor
+✓  CP documents UI, verifications functionality stubbed out
 *  FT deploy to production error
 
 Today:
   FT deploy to production error
-  CP documents UI
   CP appointments page
 
-
 Blocker:
+  CP appointments page
 
 This week:
-  CP
+  FT
     -call details 1 day timeframe not working correctly
 
   CPRS changes/fixes noticed during demo
