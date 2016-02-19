@@ -1,25 +1,23 @@
 Report:
-✓  CP documents UI, verifications functionality stubbed out
-*  FT deploy to production error
+✓  FT call outcome additions
+*  CP portfolio starts page
 
 Today:
-  FT deploy to production error
-  CP appointments page
+  CP portfolio starts page
 
 Blocker:
-  CP appointments page
 
 This week:
-  FT
-    -call details 1 day timeframe not working correctly
 
-  CPRS changes/fixes noticed during demo
+Someday:
+  FT
+    -UUID implementation testing!
+
+  CPRS changes/fixes noticed during demo:
     -start a new screening didnt reset all questions
     -liheap showed up as eligible benefit even though it was marked as already enrolled in
     -icon next to question to indicated you can click on it to get help text, or else underline the questions?
     -on the need to followup form page, have an entry field for custom notes
-
-Someday:
 
 
 Things to show:
