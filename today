@@ -1,13 +1,12 @@
 Report:
 *  CP portfolio starts page
-✓  CP bug fixes in portfolio search
-✓  FT head of household name display bug
-✓  FT undetermined eligibles report filtering out specific outbound calls
+*  CP integration with CPRS re: QS
+✓  FT bugs/PT tickets
 
 Today:
   CP portfolio starts page
   CP integration with CPRS re: QS
-  FT quick discussions re: households and phone numbers
+  CP create portfolio/household
 
 Blocker:
 
