@@ -1,12 +1,11 @@
 Report:
-*  CP portfolio starts page
+✓  CP portfolio starts page
 *  CP integration with CPRS re: QS
-✓  FT bugs/PT tickets
+✓  CP create portfolio/household
 
 Today:
-  CP portfolio starts page
   CP integration with CPRS re: QS
-  CP create portfolio/household
+  CPRS_API/CPRS integration with CP
 
 Blocker:
 
