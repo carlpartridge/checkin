@@ -1,25 +1,26 @@
 Report:
-✓  CP portfolio starts page
 *  CP integration with CPRS re: QS
-✓  CP create portfolio/household
+*  CPRS/API integration with CP
 
 Today:
+  FT import new users
   CP integration with CPRS re: QS
-  CPRS_API/CPRS integration with CP
+  CPRS/API integration with CP
+  Dev huddle
+  CP checkin?
 
 Blocker:
 
 This week:
 
 Someday:
-  FT
-    -UUID implementation testing!
+  UUID implementation
+    -FT, CPRS, CPRS API
 
-  CPRS changes/fixes noticed during demo:
-    -start a new screening didnt reset all questions
-    -liheap showed up as eligible benefit even though it was marked as already enrolled in
-    -icon next to question to indicated you can click on it to get help text, or else underline the questions?
-    -on the need to followup form page, have an entry field for custom notes
+  CPRS
+    -liheap showed up as eligible benefit even though it was marked as already enrolled in (CANT REPRODUCE)
+    -on the need to followup form page, have an entry field for custom notes (NOT YET IMPLEMENTED)
+
 
 
 Things to show:
