@@ -1,13 +1,13 @@
 Report:
+✓  FT import new users/testing
 *  CP integration with CPRS re: QS
 *  CPRS/API integration with CP
+✓  CP checkin
 
 Today:
-  FT import new users
   CP integration with CPRS re: QS
   CPRS/API integration with CP
   Dev huddle
-  CP checkin?
 
 Blocker:
 
@@ -16,6 +16,9 @@ This week:
 Someday:
   UUID implementation
     -FT, CPRS, CPRS API
+
+  FT
+    -convert some hardcoded notes to activities where possible
 
   CPRS
     -liheap showed up as eligible benefit even though it was marked as already enrolled in (CANT REPRODUCE)
