@@ -1,15 +1,14 @@
 Report:
 *  CP integration with CPRS re: QS
-*  CPRS/API integration with CP
-*  CP historical details controllers/commands
-✓  CP historical fact meeting
+*  CP/CPRS refactoring to the same backend/api
+✓  CP historical details controllers/commands basic functionality/templates
+✓  CP show me what youve done meeting
 
 Today:
-  CPRS API refactor to CP API
-  CP historical details controllers/commands
-  set up local prism for testing
-  all staff meeting
-  professional development lunch
+  CP integration with CPRS re: QS
+  CP checkin?
+  Dev huddle
+  IT meet and greet
 
 Blocker:
 
