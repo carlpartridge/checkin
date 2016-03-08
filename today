@@ -1,14 +1,13 @@
 Report:
-*  CP integration with CPRS re: QS
-*  CP/CPRS refactoring to the same backend/api
-✓  CP historical details controllers/commands basic functionality/templates
-✓  CP show me what youve done meeting
+✓  CP integration with CPRS re: QS
+✓  CP minor bug fixes/adjustments
+✓  Dev huddle
+✓  IT meet and greet
 
 Today:
-  CP integration with CPRS re: QS
-  CP checkin?
-  Dev huddle
-  IT meet and greet
+  CP camelcase issue
+  CP portfolio create (base member)?
+  CP talk with nate about what to work on next
 
 Blocker:
 
