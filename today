@@ -1,13 +1,14 @@
 Report:
-✓  CP integration with CPRS re: QS
-✓  CP minor bug fixes/adjustments
-✓  Dev huddle
-✓  IT meet and greet
+✓  CP camelcase issue
+✓  CP portfolio create (base member)?
+✓  CP talk with nate about what to work on next
+*  CP portfolio search updates
 
 Today:
-  CP camelcase issue
-  CP portfolio create (base member)?
-  CP talk with nate about what to work on next
+  CP portfolio search updates
+  CP walk in referral update
+  CP outcomes
+  CP incomes
 
 Blocker:
 
@@ -19,6 +20,7 @@ Someday:
 
   FT
     -convert some hardcoded notes to activities where possible
+    -check logging functionality!
 
   CPRS
     -liheap showed up as eligible benefit even though it was marked as already enrolled in (CANT REPRODUCE)
@@ -35,4 +37,4 @@ Things to show:
 ✓ when something is completed
 ~ when waiting on something
 * when in progress… some work done but not complete
-✓
+✓✓
