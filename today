@@ -1,13 +1,10 @@
 Report:
-✓  CP camelcase issue
-✓  CP portfolio create (base member)?
-✓  CP talk with nate about what to work on next
-*  CP portfolio search updates
+✓  CP portfolio search updates
+✓  CP walk in referral update
+✓  CP outcomes
+*  CP incomes
 
 Today:
-  CP portfolio search updates
-  CP walk in referral update
-  CP outcomes
   CP incomes
 
 Blocker:
@@ -37,4 +34,4 @@ Things to show:
 ✓ when something is completed
 ~ when waiting on something
 * when in progress… some work done but not complete
-✓✓
+✓
