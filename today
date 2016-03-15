@@ -1,9 +1,12 @@
 Report:
 *  CP incomes
-✓  CP auto save inputs
+*  CP notes/websockets/broadcasters
+✓  FT look into unattached documents issue
+✓  FT #115188787 call outcome activity log
 
 Today:
   CP incomes
+  CP notes/websockets/broadcasters
   
 
 Blocker:
