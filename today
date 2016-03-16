@@ -1,12 +1,12 @@
 Report:
 *  CP incomes
 *  CP notes/websockets/broadcasters
-✓  FT look into unattached documents issue
-✓  FT #115188787 call outcome activity log
+✓  FT #115635945 documents showing up in undetermined eligibles and as a note
+✓  FT refactored undetermined eligibles sql query to speed it up
 
 Today:
-  CP incomes
-  CP notes/websockets/broadcasters
+  CP finishing up incomes
+  CP talk to nate about new work
   
 
 Blocker:
