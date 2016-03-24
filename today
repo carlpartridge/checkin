@@ -1,11 +1,11 @@
 Report:
-*  CP - PRISM api connection
-✓  FT must confirm eligible determination changes before being able to finish a call 
+✓  CP - PRISM api connection
+✓  CP - PRISM import portfolio
+✓  CP portfolio access refactor
 
 Today:
-  CP - PRISM api connection
-  CP - PRISM import portfolio
-  CP portfolio access refactor
+  CP - PRISM api connection test/clean up 
+  CP discuss whats next
   
 
 Blocker:
