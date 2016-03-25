@@ -1,11 +1,14 @@
 Report:
-✓  CP - PRISM api connection
-✓  CP - PRISM import portfolio
-✓  CP portfolio access refactor
+✓  CP notes refactor
+✓  CP search changes
+✓  FT delete documents
+✓  FT call details load issue
+*  CP - QS connection
 
 Today:
-  CP - PRISM api connection test/clean up 
-  CP discuss whats next
+  CP - QS connection 
+  CP benefits to screen for
+  CP screening obj
   
 
 Blocker:
@@ -17,6 +20,7 @@ Someday:
     -FT, CPRS
 
   FT
+    -update notes to CP style
     -convert some hardcoded notes to activities where possible
     -check logging functionality!
 
