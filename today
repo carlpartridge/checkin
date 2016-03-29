@@ -1,13 +1,11 @@
 Report:
-✓  CP - QS connection 
-✓  CP benefits to screen for
-*  CP screening obj
+✓  CP/PRISM screening create/update issue
+✓  FT march eligibles import/testing
+✓  Dev huddle
+✓  CP check in
 
 Today:
-  CP/PRISM screening create/update issue
-  FT march eligibles import/testing
-  Dev huddle
-  CP check in?
+  CP/PRISM various refactor to work through sockets
   
 
 Blocker:
