@@ -1,8 +1,5 @@
 Report:
-✓  CP/PRISM screening create/update issue
-✓  FT march eligibles import/testing
-✓  Dev huddle
-✓  CP check in
+*  CP/PRISM various refactor to work through sockets
 
 Today:
   CP/PRISM various refactor to work through sockets
