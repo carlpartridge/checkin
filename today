@@ -1,13 +1,14 @@
 Report:
-✓  CP/PRISM various refactor to work through sockets
-✓  CP refactor portfolio start page (screen for)
-✓  FT chores
+*  CP clean up/testing/refactor
+*  CP catching up some rspec
+*  CPRS env set up
+*  CP deploy scripts
+✓  Lunch and learn
 
 Today:
-  CP clean up/testing/refactor
+  CPRS env set up
   CP next steps
-  Lunch and learn
-  
+  CP deploy scripts
 
 Blocker:
 
