@@ -1,11 +1,11 @@
 Report:
-*  CPRS env set up
-✓  CP deploy script
-✓  CP reworked websocket push to go through agent vs eventually with boris
+  Feature 15 ssh setup, with louis
+  CP various fixes/clean up (notes, interactions, screenings)
+  Dev huddle
 
 Today:
-  CPRS env set up/deploy issue, ssh key?
-  CP next steps
+  CPRS not working on feature15
+  CP next steps!?
 
 Blocker:
 
