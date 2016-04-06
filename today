@@ -1,10 +1,9 @@
 Report:
-  Feature 15 ssh setup, with louis
-  CP various fixes/clean up (notes, interactions, screenings)
-  Dev huddle
+* CPRS CORS/nginx config, conflicts/issues
 
 Today:
-  CPRS not working on feature15
+  CPRS CORS/nginx config, conflicts/issues
+  CPRS add to foreman setup
   CP next steps!?
 
 Blocker:
